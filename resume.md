@@ -7,9 +7,9 @@ http://www.linkedin.com/in/joshuaji03
 
 # Summary
 
-Quick Summary (not objective) specifically highlighting why you qualify for the job.
-
-# Work Experience (only last 10 years)
+- Aspiring senior student at the University of Wahisngton with a B.A. degree in Geography with Data Science and minors in Applied Mathamatics & Mathamatics
+- Excellent communicator and listener with a handful of real-life tech experiences
+- Determined learner willing to accept feedbacks on both technical and perosnal levels
 
 ## Opptin (Seattle, WA)
 
@@ -23,7 +23,7 @@ Quick Summary (not objective) specifically highlighting why you qualify for the 
 - Coordinated group meetings & team building activities through zoom, used GitHub for progress update on a daily basis
 
 
-## HighJet, Hainan Airline  (Guangzhou, Guangdong)
+## HighJet, Hainan Airline  (Guangzhou, China)
 [HighJet Tech](http://www.highjet.com.cn/hjweb/ow/index) is a third party company that implements big data methods to provide data-driven decisions for businesses.
 
 **Business Analyst Intern** (July, 2017 - August, 2017)
@@ -33,8 +33,8 @@ Quick Summary (not objective) specifically highlighting why you qualify for the 
 - With a team of 3 **used RStudio to visualize housing data to provide insight into residents’ real-estate preferences**
 
 
-## University of Washington Housing & Food Service
-* [UW-HFS](https://hfs.uw.edu/) Administrate housing and residential life services at the University of Washington campus.*
+## University of Washington Housing & Food Service (Seattle, WA)
+* [UW-HFS](https://hfs.uw.edu/) administrates the housing and residential life services at the University of Washington campus.*
 
 **Office Assistant** (July, 2018 - June, 2019)
 
