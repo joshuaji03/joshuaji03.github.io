@@ -1,5 +1,6 @@
 
 # Joshua Ji
+<img src="./img/profile.jpg" width="200">
 
 yixuaj@uw.edu
 

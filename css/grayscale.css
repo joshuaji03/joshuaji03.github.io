@@ -172,8 +172,8 @@ nav-link
 }
 
 .about-section .img-profile {
-  max-width: 10rem;
-  max-height: 10rem;
+  max-width: 20rem;
+  max-height: 20rem;
   border: 0.5rem solid rgba(255, 255, 255, 0.2);
 }
 
